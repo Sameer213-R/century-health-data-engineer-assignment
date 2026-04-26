@@ -54,24 +54,19 @@ Creates analytics-ready business tables:
 - gold.master_health
 
 ---
-# Pipeline Orchestration Architecture
+## Pipeline Orchestration Architecture
 
 The project was operationalized using Databricks Jobs workflow orchestration.
 
-Task dependency flow:
+### Task Dependency Flow
 
--setup_schema_and_load
--↓
--02_bronze_layer
--↓
--03_silver_layer
--↓
--04_gold_layer
--↓
--05_validation
+1. setup_schema_and_load  
+2. 02_bronze_layer  
+3. 03_silver_layer  
+4. 04_gold_layer  
+5. 05_validation  
 
 This ensures automated sequential execution of the Medallion pipeline from ingestion through validation.
-
 
 # Folder Structure
 
