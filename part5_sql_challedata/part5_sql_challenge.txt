@@ -1,0 +1,38 @@
+-- Patient Active Span
+SELECT
+    patient_id,
+    MIN(encounter_date) AS first_encounter_date,
+    MAX(encounter_date) AS last_encounter_date,
+    DATEDIFF(
+        day,
+        MIN(encounter_date),
+        MAX(encounter_date)
+    ) AS days_active
+FROM encounters
+GROUP BY patient_id
+HAVING DATEDIFF(
+        day,
+        MIN(encounter_date),
+        MAX(encounter_date)
+    ) > 365
+ORDER BY days_active DESC;
+
+--Current Medication vs Fatigue Score
+SELECT
+    m.medication_name,
+    COUNT(DISTINCT m.patient_id) AS patient_count,
+    ROUND(AVG(o.symptom_value), 2) AS avg_fatigue_score
+FROM medications m
+JOIN observations o
+    ON m.patient_id = o.patient_id
+WHERE
+    o.symptom_name = 'Fatigue'
+    AND (
+        m.end_date IS NULL
+        OR m.end_date > CURRENT_DATE
+    )
+GROUP BY m.medication_name
+HAVING COUNT(DISTINCT m.patient_id) >= 10
+ORDER BY avg_fatigue_score DESC;
+
+--
