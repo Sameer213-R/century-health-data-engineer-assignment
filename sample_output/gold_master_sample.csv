@@ -1,0 +1,101 @@
+encounter_id,patient,encounter_start,encounter_stop,encounterclass,gender,race,ethnicity,birthdate,condition_code,condition_name,medication_code,medication_name,totalcost,symptom_name,symptom_value
+082ea933-99d1-4dd4-e2cc-4d018a163236,99249ff1-59a9-dc6e-c152-4ca393cd57c5,2020-04-18 03:11:40,2020-04-18 03:26:40,ambulatory,nan,white,hispanic,1985-02-04,271737000,Anemia (disorder),,,,Fever,9
+13068c44-9052-aeb5-ee33-8ca562eeb912,d141033b-f16a-37ea-165d-66bc0869ae74,2016-01-30 20:33:02,2016-01-30 20:48:02,ambulatory,nan,black,hispanic,1988-04-04,200936003,lupus erythematosus,,,,Fever,10
+445e2a51-d7ee-ecd1-f1c4-d41898f1edec,c3387cb1-382a-d643-25ec-3073636fb586,2014-05-18 08:33:21,2014-05-18 08:48:21,ambulatory,nan,native,nonhispanic,1969-07-16,200936003,lupus erythematosus,,,,Fever,5
+cc963854-fc24-6f05-bb7f-7544f8f5dd5a,3c07423d-ff56-29e4-25c6-e81ebd84d986,2017-04-28 04:42:41,2017-04-28 04:57:41,ambulatory,nan,white,nonhispanic,1992-03-24,271737000,Anemia (disorder),,,,Fever,7
+2593a11b-7a47-e66b-383b-b24892566782,b3b79d99-930b-7dc9-47fb-effb43d111d1,2019-03-19 03:06:15,2019-03-19 03:21:15,ambulatory,nan,white,hispanic,1988-06-03,271737000,ANEMIA (DISORDER),,,,Fever,15
+c6a8639d-9e16-ac9f-0e92-09f79258800c,690a7006-0756-ec37-f9e5-7796f5e3975d,2023-06-26 07:10:05,2023-06-26 07:25:05,ambulatory,nan,white,nonhispanic,1962-11-23,200936003,Lupus erythematosus,,,,Fever,11
+8f6823b3-f3d2-5358-6641-f613c526d5d5,8f86b69c-fbdb-e6f5-5a27-af2cc8ca4ad0,2023-08-12 08:05:38,2023-08-12 08:20:38,ambulatory,nan,white,nonhispanic,1985-10-30,200936003,Lupus erythematosus,,,,Fever,3
+58769179-e3d9-b689-9301-6ab05fdb451f,8f8f4eeb-a8aa-d9c3-10c9-a33e2428f3b9,2015-05-24 15:43:08,2015-05-24 15:58:08,ambulatory,nan,white,hispanic,1988-04-28,271737000,Anemia (disorder),,,,Fever,10
+ee11d866-91ac-b3c6-e4e9-042cf9abbe7e,a2ea4427-46c2-0d88-5f5e-878a62e68153,2020-08-13 14:40:12,2020-08-13 14:55:12,ambulatory,nan,white,nonhispanic,1990-04-28,271737000,Anemia (disorder),,,,Fever,15
+368302d0-7947-2497-c87e-ed4995c5e0bd,d721dbc8-2e01-154b-346b-cf2595043243,2016-10-14 18:45:19,2016-10-14 19:00:19,ambulatory,nan,white,nonhispanic,1975-08-18,271737000,Anemia (disorder),,,,Fever,9
+070bc19c-7e47-5b84-3c49-6c668d268945,81a4e35d-720f-6d9a-e4c7-5f7586a1457a,2023-06-14 07:39:49,2023-06-14 07:54:49,ambulatory,nan,white,nonhispanic,1984-06-22,200936003,LUPUS ERYTHEMATOSUS,,,,Fever,14
+ec2aa4cd-5ff6-554f-d85d-7c2eb867f74c,eba2df92-5fe5-6125-043f-7c5af089abd2,2016-09-10 07:38:18,2016-09-10 07:53:18,ambulatory,nan,white,nonhispanic,1978-02-07,200936003,Lupus erythematosus,,,,Fever,9
+6abac059-6b52-bc5a-b892-e94de04d945b,4f9fb36d-ccf9-7002-38bf-b687ca94e448,2019-07-09 06:41:49,2019-07-09 06:56:49,ambulatory,nan,black,nonhispanic,1940-06-27,200936003,Lupus erythematosus,,,,Fever,15
+fc4b4e28-e502-39ad-03b7-768e38121e0f,201a45f1-191f-9111-bfdf-11540550c49b,2021-04-24 22:46:55,2021-04-24 23:01:55,ambulatory,nan,white,hispanic,1978-08-04,200936003,Lupus erythematosus,,,,Fever,17
+44ceb90f-a3a3-0aed-f18b-0d580a9c13e5,a170f172-60d0-47c6-1597-ddab69100e39,2017-11-22 15:58:20,2017-11-22 16:13:20,ambulatory,nan,white,hispanic,1960-09-22,200936003,lupus erythematosus,,,,Fever,3
+a910ac34-54c4-c644-b400-35d50448a374,c3bc5cfd-18a0-240d-cd09-08f3efe99895,2017-04-11 18:10:42,2017-04-11 18:25:42,ambulatory,nan,white,nonhispanic,1953-05-31,271737000,Anemia (disorder),,,,Fever,18
+6105a439-6524-2fe1-0409-f1abc48d153c,1baae391-88a4-bd31-5769-5740aac82038,2021-12-09 18:36:47,2021-12-09 18:51:47,ambulatory,nan,black,hispanic,1980-11-20,200936003,Lupus erythematosus,,,,Fever,17
+9ebf6f1c-e9a1-2d23-6c19-bac664e6542b,f313ebe8-0e10-6417-2ef0-09de8faa682f,2018-10-05 17:08:09,2018-10-05 17:23:09,ambulatory,nan,white,nonhispanic,,200936003,Lupus erythematosus,,,,Fever,19
+ab38fc4c-ad7a-12fd-25c6-01c0f7acc49e,c5fe9a13-2ac7-cd17-c238-f249b68555a6,2020-08-17 23:39:07,2020-08-17 23:54:07,ambulatory,nan,white,hispanic,1966-05-12,200936003,Lupus erythematosus,,,,Fever,10
+2cac579a-2b50-519b-2f3c-9edfbea40e10,f44c658d-0f96-ed3f-88f9-c5b1fd36ac62,2018-09-25 14:09:34,2018-09-25 14:24:34,ambulatory,nan,white,hispanic,1988-09-09,271737000,ANEMIA (DISORDER),,,,Fever,2
+83771b88-d8ad-36fd-4b50-89ef5445d085,14b5f475-b101-87ae-652a-07127a7518c2,2022-04-02 04:56:02,2022-04-02 05:11:02,ambulatory,nan,white,hispanic,1981-11-12,200936003,LUPUS ERYTHEMATOSUS,,,,Fever,10
+1377eeaa-9648-aa87-1d48-520c9c87be39,8986ff9b-8b0b-4baa-7c40-c449cee1accd,2022-04-13 07:59:17,2022-04-13 08:14:17,ambulatory,nan,black,nonhispanic,1993-07-08,200936003,Lupus erythematosus,,,,Fever,18
+5272b637-3b6c-31ce-c143-cd3a10fb560c,a4e875b5-8316-f594-31e7-f63994abd3fa,2022-08-31 18:22:58,2022-08-31 18:37:58,ambulatory,nan,white,hispanic,1978-11-11,200936003,Lupus erythematosus,,,,Fever,1
+d10a5a0c-6fd3-3985-ede9-b3dd3f364173,ab5580cb-0732-1e1a-c092-49343e58218f,2017-03-22 01:24:52,2017-03-22 01:39:52,ambulatory,nan,white,hispanic,1951-07-23,200936003,lupus erythematosus,,,,Fever,11
+1c36314a-2531-c2aa-f644-4a081b7bb903,3f9230d6-b647-8724-6b59-ddc84ada7a9b,2019-04-08 10:29:34,2019-04-08 10:44:34,ambulatory,nan,white,nonhispanic,1976-10-21,271737000,Anemia (disorder),,,,Fever,4
+4034f332-65ae-167c-df4c-1de18ae66754,abbfcc30-bad9-b9b8-9b2e-b5d3003b714b,2018-08-23 06:36:28,2018-08-23 06:51:28,ambulatory,nan,black,nonhispanic,1989-10-21,200936003,Lupus erythematosus,,,,Fever,1
+16146249-0abb-76e3-fbf3-cb8157fad7bd,a891d05f-0bbc-3075-e9eb-8fcc59d3ad92,2021-02-21 05:04:53,2021-02-21 05:19:53,ambulatory,nan,white,hispanic,1964-12-30,200936003,Lupus erythematosus,,,,Fever,4
+fd5f4333-d3ef-11d2-0288-3e14a193d67a,410a94a2-6a25-a453-5a35-2b9e9b58b50c,2019-03-07 01:10:47,2019-03-07 01:25:47,ambulatory,nan,white,nonhispanic,1966-08-01,200936003,Lupus erythematosus,,,,Fever,12
+e616531f-4d69-5f6d-42c1-bee11a6f00ec,17d1ad70-4433-9979-a472-cf664f9ae608,2019-03-08 22:07:51,2019-03-08 22:22:51,ambulatory,nan,white,nonhispanic,1976-02-24,200936003,Lupus erythematosus,,,,Fever,10
+f27834c6-7fdf-2219-bf6c-d8e00b07b834,7e260584-0bea-76c7-9fe1-15b1420127fe,2017-07-31 15:10:07,2017-07-31 15:25:07,ambulatory,nan,white,nonhispanic,1979-10-10,200936003,Lupus erythematosus,,,,Fever,10
+11b7bd3e-34a4-7a05-ec92-32fd61b2f720,6ed35a5b-7dc7-08eb-0aca-c37c06a4e927,2022-05-18 08:11:16,2022-05-18 08:26:16,ambulatory,nan,black,nonhispanic,1979-04-06,200936003,Lupus erythematosus,,,,Fever,11
+e238c45f-b03e-465d-af31-313f6d740e15,db4ee2e6-cd7a-d28b-5b89-4944cd830575,2015-01-13 14:42:26,2015-01-13 14:57:26,ambulatory,nan,white,hispanic,1969-08-07,200936003,lupus erythematosus,,,,Fever,11
+22570018-b0b0-97a3-cac7-b0d6fa9e6f68,33e678cb-6fe7-6036-4bbd-a7e5e8d1014b,2019-01-23 10:51:25,2019-01-23 11:06:25,ambulatory,nan,white,nonhispanic,1943-09-19,200936003,lupus erythematosus,,,,Fever,18
+90f0503b-da48-db81-98d8-a7952c0d3ad1,64baef18-7971-d129-eaed-c52a86e2acd6,2022-03-22 05:53:00,2022-03-22 06:08:00,ambulatory,nan,white,hispanic,1991-10-25,200936003,Lupus erythematosus,,,,Fever,10
+ba5887ca-fae9-1bd9-368e-c9d0428eea85,d2707614-325d-b19d-d0f9-e2903052d43e,2022-02-16 05:27:44,2022-02-16 05:42:44,ambulatory,nan,white,nonhispanic,1957-06-16,200936003,LUPUS ERYTHEMATOSUS,,,,Fever,19
+45142558-1f11-35d9-ab69-d21c314b6156,b6cf7469-1d11-9ddb-2524-9ecb4afe1625,2016-01-27 07:56:48,2016-01-27 08:11:48,ambulatory,nan,white,hispanic,1964-08-27,200936003,Lupus erythematosus,,,,Fever,13
+a2aff001-0cee-090d-ba43-e8352b4f0587,d325ad91-b2d8-7d89-8d4d-870ee1bba963,2016-12-11 22:15:12,2016-12-11 22:30:12,ambulatory,nan,white,nonhispanic,1982-08-07,200936003,Lupus erythematosus,,,,Fever,2
+5b341bd2-c4bc-6959-cf5c-092ff9131dea,e3eff1a4-0349-856b-fe5d-82dadaf93968,2014-11-15 09:56:47,2014-11-15 10:11:47,ambulatory,nan,white,nonhispanic,1949-06-27,200936003,LUPUS ERYTHEMATOSUS,,,,Fever,11
+d82eb7ba-b4c1-83ef-1614-6dc35dc5cf20,8dfcff47-a24b-8ab6-1211-83688f6f712d,2015-03-08 18:35:42,2015-03-08 18:50:42,ambulatory,nan,black,nonhispanic,1972-10-03,200936003,LUPUS ERYTHEMATOSUS,,,,Fever,4
+d1231838-a30d-23d2-b41b-71a82110f429,4cf3d457-279c-398e-7d31-0681ca455221,2019-06-27 08:32:37,2019-06-27 08:47:37,ambulatory,nan,white,nonhispanic,1945-12-04,200936003,Lupus erythematosus,,,,Fever,7
+082ea933-99d1-4dd4-e2cc-4d018a163236,99249ff1-59a9-dc6e-c152-4ca393cd57c5,2020-04-18 03:11:40,2020-04-18 03:26:40,ambulatory,nan,white,hispanic,1985-02-04,271737000,Anemia (disorder),,,,Fatigue,3
+13068c44-9052-aeb5-ee33-8ca562eeb912,d141033b-f16a-37ea-165d-66bc0869ae74,2016-01-30 20:33:02,2016-01-30 20:48:02,ambulatory,nan,black,hispanic,1988-04-04,200936003,lupus erythematosus,,,,Fatigue,32
+445e2a51-d7ee-ecd1-f1c4-d41898f1edec,c3387cb1-382a-d643-25ec-3073636fb586,2014-05-18 08:33:21,2014-05-18 08:48:21,ambulatory,nan,native,nonhispanic,1969-07-16,200936003,lupus erythematosus,,,,Fatigue,25
+cc963854-fc24-6f05-bb7f-7544f8f5dd5a,3c07423d-ff56-29e4-25c6-e81ebd84d986,2017-04-28 04:42:41,2017-04-28 04:57:41,ambulatory,nan,white,nonhispanic,1992-03-24,271737000,Anemia (disorder),,,,Fatigue,36
+2593a11b-7a47-e66b-383b-b24892566782,b3b79d99-930b-7dc9-47fb-effb43d111d1,2019-03-19 03:06:15,2019-03-19 03:21:15,ambulatory,nan,white,hispanic,1988-06-03,271737000,ANEMIA (DISORDER),,,,Fatigue,19
+c6a8639d-9e16-ac9f-0e92-09f79258800c,690a7006-0756-ec37-f9e5-7796f5e3975d,2023-06-26 07:10:05,2023-06-26 07:25:05,ambulatory,nan,white,nonhispanic,1962-11-23,200936003,Lupus erythematosus,,,,Fatigue,0
+8f6823b3-f3d2-5358-6641-f613c526d5d5,8f86b69c-fbdb-e6f5-5a27-af2cc8ca4ad0,2023-08-12 08:05:38,2023-08-12 08:20:38,ambulatory,nan,white,nonhispanic,1985-10-30,200936003,Lupus erythematosus,,,,Fatigue,42
+58769179-e3d9-b689-9301-6ab05fdb451f,8f8f4eeb-a8aa-d9c3-10c9-a33e2428f3b9,2015-05-24 15:43:08,2015-05-24 15:58:08,ambulatory,nan,white,hispanic,1988-04-28,271737000,Anemia (disorder),,,,Fatigue,39
+ee11d866-91ac-b3c6-e4e9-042cf9abbe7e,a2ea4427-46c2-0d88-5f5e-878a62e68153,2020-08-13 14:40:12,2020-08-13 14:55:12,ambulatory,nan,white,nonhispanic,1990-04-28,271737000,Anemia (disorder),,,,Fatigue,43
+368302d0-7947-2497-c87e-ed4995c5e0bd,d721dbc8-2e01-154b-346b-cf2595043243,2016-10-14 18:45:19,2016-10-14 19:00:19,ambulatory,nan,white,nonhispanic,1975-08-18,271737000,Anemia (disorder),,,,Fatigue,47
+070bc19c-7e47-5b84-3c49-6c668d268945,81a4e35d-720f-6d9a-e4c7-5f7586a1457a,2023-06-14 07:39:49,2023-06-14 07:54:49,ambulatory,nan,white,nonhispanic,1984-06-22,200936003,LUPUS ERYTHEMATOSUS,,,,Fatigue,33
+ec2aa4cd-5ff6-554f-d85d-7c2eb867f74c,eba2df92-5fe5-6125-043f-7c5af089abd2,2016-09-10 07:38:18,2016-09-10 07:53:18,ambulatory,nan,white,nonhispanic,1978-02-07,200936003,Lupus erythematosus,,,,Fatigue,49
+6abac059-6b52-bc5a-b892-e94de04d945b,4f9fb36d-ccf9-7002-38bf-b687ca94e448,2019-07-09 06:41:49,2019-07-09 06:56:49,ambulatory,nan,black,nonhispanic,1940-06-27,200936003,Lupus erythematosus,,,,Fatigue,14
+fc4b4e28-e502-39ad-03b7-768e38121e0f,201a45f1-191f-9111-bfdf-11540550c49b,2021-04-24 22:46:55,2021-04-24 23:01:55,ambulatory,nan,white,hispanic,1978-08-04,200936003,Lupus erythematosus,,,,Fatigue,30
+44ceb90f-a3a3-0aed-f18b-0d580a9c13e5,a170f172-60d0-47c6-1597-ddab69100e39,2017-11-22 15:58:20,2017-11-22 16:13:20,ambulatory,nan,white,hispanic,1960-09-22,200936003,lupus erythematosus,,,,Fatigue,33
+a910ac34-54c4-c644-b400-35d50448a374,c3bc5cfd-18a0-240d-cd09-08f3efe99895,2017-04-11 18:10:42,2017-04-11 18:25:42,ambulatory,nan,white,nonhispanic,1953-05-31,271737000,Anemia (disorder),,,,Fatigue,31
+6105a439-6524-2fe1-0409-f1abc48d153c,1baae391-88a4-bd31-5769-5740aac82038,2021-12-09 18:36:47,2021-12-09 18:51:47,ambulatory,nan,black,hispanic,1980-11-20,200936003,Lupus erythematosus,,,,Fatigue,29
+9ebf6f1c-e9a1-2d23-6c19-bac664e6542b,f313ebe8-0e10-6417-2ef0-09de8faa682f,2018-10-05 17:08:09,2018-10-05 17:23:09,ambulatory,nan,white,nonhispanic,,200936003,Lupus erythematosus,,,,Fatigue,16
+ab38fc4c-ad7a-12fd-25c6-01c0f7acc49e,c5fe9a13-2ac7-cd17-c238-f249b68555a6,2020-08-17 23:39:07,2020-08-17 23:54:07,ambulatory,nan,white,hispanic,1966-05-12,200936003,Lupus erythematosus,,,,Fatigue,36
+2cac579a-2b50-519b-2f3c-9edfbea40e10,f44c658d-0f96-ed3f-88f9-c5b1fd36ac62,2018-09-25 14:09:34,2018-09-25 14:24:34,ambulatory,nan,white,hispanic,1988-09-09,271737000,ANEMIA (DISORDER),,,,Fatigue,41
+83771b88-d8ad-36fd-4b50-89ef5445d085,14b5f475-b101-87ae-652a-07127a7518c2,2022-04-02 04:56:02,2022-04-02 05:11:02,ambulatory,nan,white,hispanic,1981-11-12,200936003,LUPUS ERYTHEMATOSUS,,,,Fatigue,40
+1377eeaa-9648-aa87-1d48-520c9c87be39,8986ff9b-8b0b-4baa-7c40-c449cee1accd,2022-04-13 07:59:17,2022-04-13 08:14:17,ambulatory,nan,black,nonhispanic,1993-07-08,200936003,Lupus erythematosus,,,,Fatigue,20
+5272b637-3b6c-31ce-c143-cd3a10fb560c,a4e875b5-8316-f594-31e7-f63994abd3fa,2022-08-31 18:22:58,2022-08-31 18:37:58,ambulatory,nan,white,hispanic,1978-11-11,200936003,Lupus erythematosus,,,,Fatigue,3
+d10a5a0c-6fd3-3985-ede9-b3dd3f364173,ab5580cb-0732-1e1a-c092-49343e58218f,2017-03-22 01:24:52,2017-03-22 01:39:52,ambulatory,nan,white,hispanic,1951-07-23,200936003,lupus erythematosus,,,,Fatigue,44
+1c36314a-2531-c2aa-f644-4a081b7bb903,3f9230d6-b647-8724-6b59-ddc84ada7a9b,2019-04-08 10:29:34,2019-04-08 10:44:34,ambulatory,nan,white,nonhispanic,1976-10-21,271737000,Anemia (disorder),,,,Fatigue,27
+4034f332-65ae-167c-df4c-1de18ae66754,abbfcc30-bad9-b9b8-9b2e-b5d3003b714b,2018-08-23 06:36:28,2018-08-23 06:51:28,ambulatory,nan,black,nonhispanic,1989-10-21,200936003,Lupus erythematosus,,,,Fatigue,37
+16146249-0abb-76e3-fbf3-cb8157fad7bd,a891d05f-0bbc-3075-e9eb-8fcc59d3ad92,2021-02-21 05:04:53,2021-02-21 05:19:53,ambulatory,nan,white,hispanic,1964-12-30,200936003,Lupus erythematosus,,,,Fatigue,3
+fd5f4333-d3ef-11d2-0288-3e14a193d67a,410a94a2-6a25-a453-5a35-2b9e9b58b50c,2019-03-07 01:10:47,2019-03-07 01:25:47,ambulatory,nan,white,nonhispanic,1966-08-01,200936003,Lupus erythematosus,,,,Fatigue,24
+e616531f-4d69-5f6d-42c1-bee11a6f00ec,17d1ad70-4433-9979-a472-cf664f9ae608,2019-03-08 22:07:51,2019-03-08 22:22:51,ambulatory,nan,white,nonhispanic,1976-02-24,200936003,Lupus erythematosus,,,,Fatigue,30
+f27834c6-7fdf-2219-bf6c-d8e00b07b834,7e260584-0bea-76c7-9fe1-15b1420127fe,2017-07-31 15:10:07,2017-07-31 15:25:07,ambulatory,nan,white,nonhispanic,1979-10-10,200936003,Lupus erythematosus,,,,Fatigue,8
+11b7bd3e-34a4-7a05-ec92-32fd61b2f720,6ed35a5b-7dc7-08eb-0aca-c37c06a4e927,2022-05-18 08:11:16,2022-05-18 08:26:16,ambulatory,nan,black,nonhispanic,1979-04-06,200936003,Lupus erythematosus,,,,Fatigue,19
+e238c45f-b03e-465d-af31-313f6d740e15,db4ee2e6-cd7a-d28b-5b89-4944cd830575,2015-01-13 14:42:26,2015-01-13 14:57:26,ambulatory,nan,white,hispanic,1969-08-07,200936003,lupus erythematosus,,,,Fatigue,21
+22570018-b0b0-97a3-cac7-b0d6fa9e6f68,33e678cb-6fe7-6036-4bbd-a7e5e8d1014b,2019-01-23 10:51:25,2019-01-23 11:06:25,ambulatory,nan,white,nonhispanic,1943-09-19,200936003,lupus erythematosus,,,,Fatigue,31
+90f0503b-da48-db81-98d8-a7952c0d3ad1,64baef18-7971-d129-eaed-c52a86e2acd6,2022-03-22 05:53:00,2022-03-22 06:08:00,ambulatory,nan,white,hispanic,1991-10-25,200936003,Lupus erythematosus,,,,Fatigue,33
+ba5887ca-fae9-1bd9-368e-c9d0428eea85,d2707614-325d-b19d-d0f9-e2903052d43e,2022-02-16 05:27:44,2022-02-16 05:42:44,ambulatory,nan,white,nonhispanic,1957-06-16,200936003,LUPUS ERYTHEMATOSUS,,,,Fatigue,14
+45142558-1f11-35d9-ab69-d21c314b6156,b6cf7469-1d11-9ddb-2524-9ecb4afe1625,2016-01-27 07:56:48,2016-01-27 08:11:48,ambulatory,nan,white,hispanic,1964-08-27,200936003,Lupus erythematosus,,,,Fatigue,29
+a2aff001-0cee-090d-ba43-e8352b4f0587,d325ad91-b2d8-7d89-8d4d-870ee1bba963,2016-12-11 22:15:12,2016-12-11 22:30:12,ambulatory,nan,white,nonhispanic,1982-08-07,200936003,Lupus erythematosus,,,,Fatigue,4
+5b341bd2-c4bc-6959-cf5c-092ff9131dea,e3eff1a4-0349-856b-fe5d-82dadaf93968,2014-11-15 09:56:47,2014-11-15 10:11:47,ambulatory,nan,white,nonhispanic,1949-06-27,200936003,LUPUS ERYTHEMATOSUS,,,,Fatigue,45
+d82eb7ba-b4c1-83ef-1614-6dc35dc5cf20,8dfcff47-a24b-8ab6-1211-83688f6f712d,2015-03-08 18:35:42,2015-03-08 18:50:42,ambulatory,nan,black,nonhispanic,1972-10-03,200936003,LUPUS ERYTHEMATOSUS,,,,Fatigue,37
+d1231838-a30d-23d2-b41b-71a82110f429,4cf3d457-279c-398e-7d31-0681ca455221,2019-06-27 08:32:37,2019-06-27 08:47:37,ambulatory,nan,white,nonhispanic,1945-12-04,200936003,Lupus erythematosus,,,,Fatigue,20
+082ea933-99d1-4dd4-e2cc-4d018a163236,99249ff1-59a9-dc6e-c152-4ca393cd57c5,2020-04-18 03:11:40,2020-04-18 03:26:40,ambulatory,nan,white,hispanic,1985-02-04,271737000,Anemia (disorder),,,,Joint Pain,22
+13068c44-9052-aeb5-ee33-8ca562eeb912,d141033b-f16a-37ea-165d-66bc0869ae74,2016-01-30 20:33:02,2016-01-30 20:48:02,ambulatory,nan,black,hispanic,1988-04-04,200936003,lupus erythematosus,,,,Joint Pain,8
+445e2a51-d7ee-ecd1-f1c4-d41898f1edec,c3387cb1-382a-d643-25ec-3073636fb586,2014-05-18 08:33:21,2014-05-18 08:48:21,ambulatory,nan,native,nonhispanic,1969-07-16,200936003,lupus erythematosus,,,,Joint Pain,32
+cc963854-fc24-6f05-bb7f-7544f8f5dd5a,3c07423d-ff56-29e4-25c6-e81ebd84d986,2017-04-28 04:42:41,2017-04-28 04:57:41,ambulatory,nan,white,nonhispanic,1992-03-24,271737000,Anemia (disorder),,,,Joint Pain,47
+2593a11b-7a47-e66b-383b-b24892566782,b3b79d99-930b-7dc9-47fb-effb43d111d1,2019-03-19 03:06:15,2019-03-19 03:21:15,ambulatory,nan,white,hispanic,1988-06-03,271737000,ANEMIA (DISORDER),,,,Joint Pain,8
+c6a8639d-9e16-ac9f-0e92-09f79258800c,690a7006-0756-ec37-f9e5-7796f5e3975d,2023-06-26 07:10:05,2023-06-26 07:25:05,ambulatory,nan,white,nonhispanic,1962-11-23,200936003,Lupus erythematosus,,,,Joint Pain,3
+8f6823b3-f3d2-5358-6641-f613c526d5d5,8f86b69c-fbdb-e6f5-5a27-af2cc8ca4ad0,2023-08-12 08:05:38,2023-08-12 08:20:38,ambulatory,nan,white,nonhispanic,1985-10-30,200936003,Lupus erythematosus,,,,Joint Pain,30
+58769179-e3d9-b689-9301-6ab05fdb451f,8f8f4eeb-a8aa-d9c3-10c9-a33e2428f3b9,2015-05-24 15:43:08,2015-05-24 15:58:08,ambulatory,nan,white,hispanic,1988-04-28,271737000,Anemia (disorder),,,,Joint Pain,31
+ee11d866-91ac-b3c6-e4e9-042cf9abbe7e,a2ea4427-46c2-0d88-5f5e-878a62e68153,2020-08-13 14:40:12,2020-08-13 14:55:12,ambulatory,nan,white,nonhispanic,1990-04-28,271737000,Anemia (disorder),,,,Joint Pain,41
+368302d0-7947-2497-c87e-ed4995c5e0bd,d721dbc8-2e01-154b-346b-cf2595043243,2016-10-14 18:45:19,2016-10-14 19:00:19,ambulatory,nan,white,nonhispanic,1975-08-18,271737000,Anemia (disorder),,,,Joint Pain,5
+070bc19c-7e47-5b84-3c49-6c668d268945,81a4e35d-720f-6d9a-e4c7-5f7586a1457a,2023-06-14 07:39:49,2023-06-14 07:54:49,ambulatory,nan,white,nonhispanic,1984-06-22,200936003,LUPUS ERYTHEMATOSUS,,,,Joint Pain,42
+ec2aa4cd-5ff6-554f-d85d-7c2eb867f74c,eba2df92-5fe5-6125-043f-7c5af089abd2,2016-09-10 07:38:18,2016-09-10 07:53:18,ambulatory,nan,white,nonhispanic,1978-02-07,200936003,Lupus erythematosus,,,,Joint Pain,9
+6abac059-6b52-bc5a-b892-e94de04d945b,4f9fb36d-ccf9-7002-38bf-b687ca94e448,2019-07-09 06:41:49,2019-07-09 06:56:49,ambulatory,nan,black,nonhispanic,1940-06-27,200936003,Lupus erythematosus,,,,Joint Pain,12
+fc4b4e28-e502-39ad-03b7-768e38121e0f,201a45f1-191f-9111-bfdf-11540550c49b,2021-04-24 22:46:55,2021-04-24 23:01:55,ambulatory,nan,white,hispanic,1978-08-04,200936003,Lupus erythematosus,,,,Joint Pain,35
+44ceb90f-a3a3-0aed-f18b-0d580a9c13e5,a170f172-60d0-47c6-1597-ddab69100e39,2017-11-22 15:58:20,2017-11-22 16:13:20,ambulatory,nan,white,hispanic,1960-09-22,200936003,lupus erythematosus,,,,Joint Pain,7
+a910ac34-54c4-c644-b400-35d50448a374,c3bc5cfd-18a0-240d-cd09-08f3efe99895,2017-04-11 18:10:42,2017-04-11 18:25:42,ambulatory,nan,white,nonhispanic,1953-05-31,271737000,Anemia (disorder),,,,Joint Pain,9
+6105a439-6524-2fe1-0409-f1abc48d153c,1baae391-88a4-bd31-5769-5740aac82038,2021-12-09 18:36:47,2021-12-09 18:51:47,ambulatory,nan,black,hispanic,1980-11-20,200936003,Lupus erythematosus,,,,Joint Pain,21
+9ebf6f1c-e9a1-2d23-6c19-bac664e6542b,f313ebe8-0e10-6417-2ef0-09de8faa682f,2018-10-05 17:08:09,2018-10-05 17:23:09,ambulatory,nan,white,nonhispanic,,200936003,Lupus erythematosus,,,,Joint Pain,34
+ab38fc4c-ad7a-12fd-25c6-01c0f7acc49e,c5fe9a13-2ac7-cd17-c238-f249b68555a6,2020-08-17 23:39:07,2020-08-17 23:54:07,ambulatory,nan,white,hispanic,1966-05-12,200936003,Lupus erythematosus,,,,Joint Pain,35
+2cac579a-2b50-519b-2f3c-9edfbea40e10,f44c658d-0f96-ed3f-88f9-c5b1fd36ac62,2018-09-25 14:09:34,2018-09-25 14:24:34,ambulatory,nan,white,hispanic,1988-09-09,271737000,ANEMIA (DISORDER),,,,Joint Pain,29

@@ -1,0 +1,101 @@
+patient,symptom_name,symptom_value
+ca424f09-df70-f4a9-986f-8e11f4dd838b,Rash,33
+ca424f09-df70-f4a9-986f-8e11f4dd838b,Joint Pain,9
+ca424f09-df70-f4a9-986f-8e11f4dd838b,Fatigue,25
+ca424f09-df70-f4a9-986f-8e11f4dd838b,Fever,0
+1a187a7d-3945-64fc-0d85-05f702c921fd,Rash,9
+1a187a7d-3945-64fc-0d85-05f702c921fd,Joint Pain,40
+1a187a7d-3945-64fc-0d85-05f702c921fd,Fatigue,23
+1a187a7d-3945-64fc-0d85-05f702c921fd,Fever,2
+bf457310-e89b-f37f-cc26-f6d6e28acb56,Rash,8
+bf457310-e89b-f37f-cc26-f6d6e28acb56,Joint Pain,5
+bf457310-e89b-f37f-cc26-f6d6e28acb56,Fatigue,42
+bf457310-e89b-f37f-cc26-f6d6e28acb56,Fever,9
+25361c6e-e7a5-ef54-7fcc-f0c7014c291b,Rash,32
+25361c6e-e7a5-ef54-7fcc-f0c7014c291b,Joint Pain,5
+25361c6e-e7a5-ef54-7fcc-f0c7014c291b,Fatigue,20
+25361c6e-e7a5-ef54-7fcc-f0c7014c291b,Fever,8
+b1126f0d-33ff-972c-8b0e-5b70154499aa,Rash,27
+b1126f0d-33ff-972c-8b0e-5b70154499aa,Joint Pain,2
+b1126f0d-33ff-972c-8b0e-5b70154499aa,Fatigue,3
+b1126f0d-33ff-972c-8b0e-5b70154499aa,Fever,12
+bdc293d8-e7bb-3c1b-760a-0cded0c988e7,Rash,35
+bdc293d8-e7bb-3c1b-760a-0cded0c988e7,Joint Pain,35
+bdc293d8-e7bb-3c1b-760a-0cded0c988e7,Fatigue,48
+bdc293d8-e7bb-3c1b-760a-0cded0c988e7,Fever,13
+27262ece-381a-7c6d-b025-1edab394ff5a,Rash,24
+27262ece-381a-7c6d-b025-1edab394ff5a,Joint Pain,20
+27262ece-381a-7c6d-b025-1edab394ff5a,Fatigue,31
+27262ece-381a-7c6d-b025-1edab394ff5a,Fever,8
+7be3cf87-2055-de8b-2011-f8bcc689a31f,Rash,48
+7be3cf87-2055-de8b-2011-f8bcc689a31f,Joint Pain,33
+7be3cf87-2055-de8b-2011-f8bcc689a31f,Fatigue,46
+7be3cf87-2055-de8b-2011-f8bcc689a31f,Fever,5
+124f6358-91ab-931c-5d9e-7d4a292406fb,Rash,20
+124f6358-91ab-931c-5d9e-7d4a292406fb,Joint Pain,28
+124f6358-91ab-931c-5d9e-7d4a292406fb,Fatigue,33
+124f6358-91ab-931c-5d9e-7d4a292406fb,Fever,8
+2bb9bf5e-9c31-12c3-c758-69cfc0e205a0,Rash,21
+2bb9bf5e-9c31-12c3-c758-69cfc0e205a0,Joint Pain,10
+2bb9bf5e-9c31-12c3-c758-69cfc0e205a0,Fatigue,44
+2bb9bf5e-9c31-12c3-c758-69cfc0e205a0,Fever,15
+6eb8678d-acce-e83f-2ec1-060306419c4b,Rash,15
+6eb8678d-acce-e83f-2ec1-060306419c4b,Joint Pain,42
+6eb8678d-acce-e83f-2ec1-060306419c4b,Fatigue,33
+6eb8678d-acce-e83f-2ec1-060306419c4b,Fever,16
+03144791-5010-cfde-a5f6-3580bcfe7cd4,Rash,49
+03144791-5010-cfde-a5f6-3580bcfe7cd4,Joint Pain,41
+03144791-5010-cfde-a5f6-3580bcfe7cd4,Fatigue,5
+03144791-5010-cfde-a5f6-3580bcfe7cd4,Fever,11
+a2906004-b493-9324-b677-8454fc4dd862,Rash,8
+a2906004-b493-9324-b677-8454fc4dd862,Joint Pain,11
+a2906004-b493-9324-b677-8454fc4dd862,Fatigue,10
+a2906004-b493-9324-b677-8454fc4dd862,Fever,9
+1fadd0a1-88f7-70cb-639f-ef1c28a64e27,Rash,18
+1fadd0a1-88f7-70cb-639f-ef1c28a64e27,Joint Pain,44
+1fadd0a1-88f7-70cb-639f-ef1c28a64e27,Fatigue,29
+1fadd0a1-88f7-70cb-639f-ef1c28a64e27,Fever,6
+eb4aa4da-c747-837e-d718-ceb5a88f3b8d,Rash,31
+eb4aa4da-c747-837e-d718-ceb5a88f3b8d,Joint Pain,17
+eb4aa4da-c747-837e-d718-ceb5a88f3b8d,Fatigue,13
+eb4aa4da-c747-837e-d718-ceb5a88f3b8d,Fever,19
+28dd55c4-00bb-5550-d83d-52e779be81c6,Rash,6
+28dd55c4-00bb-5550-d83d-52e779be81c6,Joint Pain,3
+28dd55c4-00bb-5550-d83d-52e779be81c6,Fatigue,38
+28dd55c4-00bb-5550-d83d-52e779be81c6,Fever,1
+e32945ae-eb47-cfce-4d44-961cc567612b,Rash,7
+e32945ae-eb47-cfce-4d44-961cc567612b,Joint Pain,22
+e32945ae-eb47-cfce-4d44-961cc567612b,Fatigue,22
+e32945ae-eb47-cfce-4d44-961cc567612b,Fever,10
+a9c1158a-b394-ed23-e764-d49598afca1a,Rash,43
+a9c1158a-b394-ed23-e764-d49598afca1a,Joint Pain,41
+a9c1158a-b394-ed23-e764-d49598afca1a,Fatigue,46
+a9c1158a-b394-ed23-e764-d49598afca1a,Fever,0
+24b767fc-2f6d-94e6-32da-271c534be110,Rash,15
+24b767fc-2f6d-94e6-32da-271c534be110,Joint Pain,41
+24b767fc-2f6d-94e6-32da-271c534be110,Fatigue,41
+24b767fc-2f6d-94e6-32da-271c534be110,Fever,0
+533ac8f7-defb-9546-a9b0-14464b4e36c5,Rash,19
+533ac8f7-defb-9546-a9b0-14464b4e36c5,Joint Pain,5
+533ac8f7-defb-9546-a9b0-14464b4e36c5,Fatigue,40
+533ac8f7-defb-9546-a9b0-14464b4e36c5,Fever,10
+cf933dd8-800f-2508-2231-3e95472336d2,Rash,40
+cf933dd8-800f-2508-2231-3e95472336d2,Joint Pain,37
+cf933dd8-800f-2508-2231-3e95472336d2,Fatigue,46
+cf933dd8-800f-2508-2231-3e95472336d2,Fever,8
+6ee91e0b-f68c-f410-7bec-7877562878a9,Rash,18
+6ee91e0b-f68c-f410-7bec-7877562878a9,Joint Pain,2
+6ee91e0b-f68c-f410-7bec-7877562878a9,Fatigue,46
+6ee91e0b-f68c-f410-7bec-7877562878a9,Fever,0
+e98f2e32-1dd3-e7fb-6ead-fadd43c6920f,Rash,4
+e98f2e32-1dd3-e7fb-6ead-fadd43c6920f,Joint Pain,18
+e98f2e32-1dd3-e7fb-6ead-fadd43c6920f,Fatigue,40
+e98f2e32-1dd3-e7fb-6ead-fadd43c6920f,Fever,2
+3961c292-8369-f5a8-062b-446030f29fdd,Rash,13
+3961c292-8369-f5a8-062b-446030f29fdd,Joint Pain,7
+3961c292-8369-f5a8-062b-446030f29fdd,Fatigue,18
+3961c292-8369-f5a8-062b-446030f29fdd,Fever,18
+56d87b00-fd48-c806-fc4d-b3d6e827819b,Rash,26
+56d87b00-fd48-c806-fc4d-b3d6e827819b,Joint Pain,34
+56d87b00-fd48-c806-fc4d-b3d6e827819b,Fatigue,35
+56d87b00-fd48-c806-fc4d-b3d6e827819b,Fever,7
